@@ -31,4 +31,5 @@
 <img width=1000 src="https://user-images.githubusercontent.com/50861700/69529173-1559f100-0fb3-11ea-82eb-71327e079d3c.png">
     </div>
     
+*해당 논문 사이트 : http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=8fd7bfd0cd3d1f91ffe0bdc3ef48d419#redirect*
 * * *
