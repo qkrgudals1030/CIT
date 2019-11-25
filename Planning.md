@@ -23,8 +23,8 @@
 * * *
 
 > ## 6. 일정계획(간트차트) : 
+![KakaoTalk_20191125_190224924](https://user-images.githubusercontent.com/50895748/69531446-3a506300-0fb7-11ea-811e-d85eb42c449b.png)  
 * * *
-![KakaoTalk_20191125_190224924](https://user-images.githubusercontent.com/50895748/69531446-3a506300-0fb7-11ea-811e-d85eb42c449b.png)
 > ## 7. 기타 (관련논문조사, 관련특허조사)
 <div>
 <img width=1000 src="https://user-images.githubusercontent.com/50861700/69529173-1559f100-0fb3-11ea-82eb-71327e079d3c.png">
