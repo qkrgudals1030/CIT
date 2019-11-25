@@ -27,6 +27,6 @@
 
 > ## 7. 기타 (관련논문조사, 관련특허조사)
 <div>
-<img width=500 src="https://user-images.githubusercontent.com/50861700/69529173-1559f100-0fb3-11ea-82eb-71327e079d3c.png>
+<img width=500 src="https://user-images.githubusercontent.com/50861700/69529173-1559f100-0fb3-11ea-82eb-71327e079d3c.png">
     </div>
 * * * 
